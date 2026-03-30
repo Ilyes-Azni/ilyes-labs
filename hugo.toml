@@ -1,0 +1,40 @@
+
+baseURL = "https://ilyes.azouani.me/"
+languageCode = "fr-fr"
+title = "Ilyes AZOUANI"
+theme = "hugo-texify3"
+
+[module]
+[module.hugoVersion]
+min = "0.113.0"
+
+[taxonomies]
+tags = "tags"
+
+[params]
+author = "Ilyes Azouani"
+description = "Ilyes's Lab"
+dateFormat = "2 January 2006"
+since = "2025"
+toc = false
+math = true
+rootFontSize = "100%"
+showWordCount = true
+showReadingTime = true
+
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "archives"
+name = "Archive"
+url = "/post/"
+weight = 2
+
+
+[markup.goldmark.renderer]
+  unsafe = true

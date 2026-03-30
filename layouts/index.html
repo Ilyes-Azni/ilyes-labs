@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div style="max-width: 600px; margin: 4rem auto; text-align: center;">
+  <h1>$ whoami</h1>
+  <p style="font-size: 1.4rem;">Ilyes Azouani</p>
+  {{ .Content }}
+</div>
+
+<div style="max-width: 600px; margin: 2rem auto;">
+  <h2>Posts</h2>
+  <ul>
+    {{ range where .Site.RegularPages "Section" "post" }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <small>— {{ .Date.Format "2006-01-02" }}</small>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}
