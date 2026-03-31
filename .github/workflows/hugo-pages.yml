@@ -20,6 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: "0.147.2"
+      DART_SASS_VERSION: "1.89.0"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -41,6 +42,17 @@ jobs:
         with:
           hugo-version: ${{ env.HUGO_VERSION }}
           extended: true
+
+      - name: Install Dart Sass
+        run: |
+          curl -L -o dart-sass.tar.gz "https://github.com/sass/dart-sass/releases/download/${{ env.DART_SASS_VERSION }}/dart-sass-${{ env.DART_SASS_VERSION }}-linux-x64.tar.gz"
+          tar -xzf dart-sass.tar.gz
+          echo "${GITHUB_WORKSPACE}/dart-sass" >> "$GITHUB_PATH"
+
+      - name: Verify Hugo and Sass
+        run: |
+          hugo version
+          sass --version
 
       - name: Setup Pages
         id: pages
