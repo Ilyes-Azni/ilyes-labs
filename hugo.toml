@@ -15,6 +15,7 @@ tags = "tags"
 title = "tmgp lab"
 author = "Ilyes Azouani"
 description = "Ilyes's Lab"
+footnote = ""
 dateFormat = "2 January 2006"
 since = "2025"
 toc = false
