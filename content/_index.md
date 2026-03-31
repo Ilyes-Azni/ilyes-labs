@@ -9,7 +9,7 @@ I study how deep models **break** and how to make them **unbreakable** — adver
 
 
 # quick description 
-I am a PhD candidate in machine learning and cybersecurity @[ISEN](https://isen-ouest.fr/labisen-la-recherche/equipes-de-recherche/vision-ad-vision-et-analyse-de-donnees/), in the mean time I am also the laboratory director of the AI Testing Laboratory of [CLR Labs](https://www.linkedin.com/company/cabinet-louis-reynaud/?originalSubdomain=be) where I work with a beautiful team of passionate and brilliant people on evaluating neural networks from robustness to system's cybersecurity and explainability, I am based in the Marseille area, between sea, mountains and buildings.
+I am a PhD candidate in machine learning and cybersecurity, in the mean time I am also the laboratory director of the AI Testing Laboratory of [CLR Labs](https://www.linkedin.com/company/cabinet-louis-reynaud/?originalSubdomain=be) where I work with a beautiful team of passionate and brilliant people on evaluating neural networks from robustness to system's cybersecurity and explainability, I am based in the Marseille area, between sea, mountains and buildings.
 
 I am a proud husband, father of one and son.
 

@@ -4,8 +4,6 @@ draft = false
 title = 'CV'
 +++
 
-# The notion of self supervised learning
+# Find my CV here !
 
-Let :
-
-$$f_\theta$$ a learned computational graph or parameters $\theta$
+// Need to add the link lol
