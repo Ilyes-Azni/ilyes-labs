@@ -14,7 +14,6 @@ tags = "tags"
 
 [params]
 title = "tmgp lab"
-subtitle = "Doctorant · machine learning & cybersécurité · Marseille"
 author = "Ilyes Azouani"
 description = "Site personnel d'Ilyes Azouani — doctorant en machine learning et cybersécurité à Marseille. Recherche, articles et projets : robustesse adversariale, sécurité des modèles, représentations."
 keywords = [
