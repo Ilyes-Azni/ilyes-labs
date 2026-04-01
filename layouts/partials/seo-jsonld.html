@@ -1,0 +1,21 @@
+{{- $base := absURL "" -}}
+{{- $person := dict
+  "@type" "Person"
+  "name" "Ilyes Azouani"
+  "url" $base
+  "sameAs" (slice
+    "https://github.com/Ilyes-Azni"
+    "https://www.kaggle.com/ilyesazouani"
+    "https://www.deep-ml.com/profile/RRSLP4PbxPQZyqquj2agZ8aKkwH3")
+-}}
+{{- $website := dict
+  "@context" "https://schema.org"
+  "@type" "WebSite"
+  "name" "Ilyes Azouani"
+  "alternateName" (slice "tmgp lab" "tonymagpie")
+  "url" $base
+  "description" (.Site.Params.description | default "")
+  "inLanguage" "fr-FR"
+  "author" $person
+-}}
+<script type="application/ld+json">{{ $website | jsonify | safeHTML }}</script>

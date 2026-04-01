@@ -1,5 +1,11 @@
 ---
-title: 'whoami'
+title: "Ilyes Azouani"
+description: "Site personnel d'Ilyes Azouani — doctorant en ML et cybersécurité (Marseille). Publications, projets et notes sur la robustesse des réseaux et la sécurité des systèmes d'IA."
+keywords:
+  - Ilyes Azouani
+  - machine learning Marseille
+  - cybersécurité
+  - doctorat informatique
 ---
 
 <img src="/me2.png" alt="image" style="width: 200px; border-radius: 50%;">

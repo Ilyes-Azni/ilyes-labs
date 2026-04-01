@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://tmgp.azouani.me/sitemap.xml

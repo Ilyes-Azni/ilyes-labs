@@ -1,7 +1,8 @@
 
 baseURL = "https://tmgp.azouani.me/"
 languageCode = "fr-fr"
-title = "tmgp lab"
+title = "Ilyes Azouani"
+enableRobotsTXT = true
 theme = "hugo-texify3"
 
 [module]
@@ -13,8 +14,23 @@ tags = "tags"
 
 [params]
 title = "tmgp lab"
+subtitle = "Doctorant · machine learning & cybersécurité · Marseille"
 author = "Ilyes Azouani"
-description = "Ilyes's Lab"
+description = "Site personnel d'Ilyes Azouani — doctorant en machine learning et cybersécurité à Marseille. Recherche, articles et projets : robustesse adversariale, sécurité des modèles, représentations."
+keywords = [
+  "Ilyes Azouani",
+  "Ilyes Azouani Marseille",
+  "machine learning",
+  "deep learning",
+  "cybersécurité",
+  "doctorat",
+  "recherche en IA",
+  "robustesse adversariale",
+  "tmgp",
+  "tonymagpie",
+]
+images = [ "https://tmgp.azouani.me/me2.png" ]
+googleSiteVerification = "7snAFQRDiiGTYD9oX6Uq-rILSmi1JR_1k-PcAvfp6iM"
 footnote = ""
 dateFormat = "2 January 2006"
 since = "2025"
