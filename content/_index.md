@@ -15,9 +15,9 @@ I study how deep models **break** and how to make them **unbreakable** — adver
 
 
 # quick description 
-I am a PhD candidate in machine learning and cybersecurity, in the mean time I am also the laboratory director of the AI Testing Laboratory of [CLR Labs](https://www.linkedin.com/company/cabinet-louis-reynaud/?originalSubdomain=be) where I work with a beautiful team of passionate and brilliant people on evaluating neural networks from robustness to system's cybersecurity and explainability, I am based in the Marseille area, between sea, mountains and buildings.
+I am a PhD student in machine learning and cybersecurity, in the mean time I am also the laboratory director of the AI Testing Laboratory of [CLR Labs](https://www.linkedin.com/company/cabinet-louis-reynaud/?originalSubdomain=be) where I work with a beautiful team of passionate and brilliant people on evaluating neural networks from robustness to system's cybersecurity and explainability, I am based in the Marseille area, between sea, mountains and buildings.
 
-I am a proud husband, father of one and son.
+I am a proud husband, father and son.
 
 This webpage is my $2^{nd}$ brain where you'll find my articles, side projects, ideas...
 
@@ -26,11 +26,13 @@ If you want to know more please reach out via e-mail, I don't have socials, migh
 You might also find me under the pseudonym **tonymagpie** or **tmgp**. 
 An ode to THPS II :wink.
 
+
+[orcid](https://orcid.org/0009-0007-3938-379X)
 [github](https://github.com/Ilyes-Azni)
 [mail-me](mailto:ilyes.azouani@proton.me)
 [kaggle](https://www.kaggle.com/ilyesazouani)
 [deep-ml](https://www.deep-ml.com/profile/RRSLP4PbxPQZyqquj2agZ8aKkwH3)
-[rootme](https://www.root-me.org/tmgp-iaz?lang=frhttps://www.root-me.org/tmgp-iaz?lang=fr)
+[rootme](https://www.root-me.org/tonymagpie?lang=fr#0884b7a16e9291ddf311ff237c82ca49)
 
 # medias
 I like to make manimations, design, and other visually intriguing materials, I share them in this section also with significant events I'd appreciate to share with you.
